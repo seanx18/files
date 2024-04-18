@@ -25718,9 +25718,9 @@
                                 0
                             ],
                             "key": 26,
-                            "name": "点击[Close ]",
+                            "name": "点击[Close]",
                             "quickFind": true,
-                            "matches": "[text=\"Close \"][clickable=true]",
+                            "matches": "[text=\"Close\"][clickable=true]",
                             "snapshotUrls": "https://i.gkd.li/i/14207480"
                         },
                         {
