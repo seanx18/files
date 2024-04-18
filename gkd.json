@@ -25718,9 +25718,9 @@
                                 0
                             ],
                             "key": 26,
-                            "name": "点击[Close Ad]",
-                            "quickFind": true, 
-                            "matches": "[text=\"Close Ad\"][clickable=true]",
+                            "name": "点击[Close ]",
+                            "quickFind": true,
+                            "matches": "[text=\"Close \"][clickable=true]",
                             "snapshotUrls": "https://i.gkd.li/i/14207480"
                         },
                         {
@@ -25753,9 +25753,9 @@
                                 0
                             ],
                             "key": 29,
-                            "name": "点击[Close the ad]",
+                            "name": "点击[Close Ad]",
                             "quickFind": true,
-                            "matches": "@LinearLayout[clickable=true] > [text=\"Close the ad\"]",
+                            "matches": "@LinearLayout[clickable=true] > [text=\"Close Ad\"]",
                             "snapshotUrls": "https://i.gkd.li/i/12905838"
                         },
                         {
